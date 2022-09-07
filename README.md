@@ -1,4 +1,4 @@
-# Yelp_comments_Sentimental_Classfication
+# Yelp_comments_Sentiment_Classfication
 Analyze Yelp customers review data and classify attitudes in two categories 'positive' and 'negative' using various BERT models
 
 ## Goorm Project #1
